@@ -4,10 +4,9 @@
 Given RGBD Images and a model of the object, segment, reconstruct and estimate 6DOF pose of the object.
 
 ## Usage Guide:
-1. Run `WrapperCar.m` for running Test Script for Car Planner.
-2. Change the flags in Wrapper.m as needed.
-3. By default, the code runs uses Liquid Container dataset (change folder name if needed).
-4. By default, the code uses sub-sampling, truncation and point to plane method, does not display all iteration and save video.
+1. Change the flags in Wrapper.m as needed.
+2. By default, the code runs uses Liquid Container dataset (change folder name if needed).
+3. By default, the code uses sub-sampling, truncation and point to plane method, does not display all iteration and save video.
 
 ## Report:
 You can find the report [here](Report/ESE650Project6.pdf).
